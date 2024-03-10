@@ -26,3 +26,8 @@ Maven 3.6+
 
 Visit the link directly: http://localhost:8080/foodTruck/list
 
+## Run tests
+
+   ```
+mvn test
+   ```
