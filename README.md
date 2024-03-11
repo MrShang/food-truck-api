@@ -1,6 +1,6 @@
 ## Food Truck API
 
-This is a repo that works as backend of the food-truck repo
+This is a repo that works as backend of the [food-truck](https://github.com/MrShang/food-truck) repo
 
 ## Prerequisite
 
